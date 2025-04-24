@@ -144,11 +144,11 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 | Attribute | Base | Racial |  Total |
 | --            | --    | --    | -- | 
-| Strength      | 15    | 2     | 17 | 
-| Dexerity      | 8     |       | 8  | 
-| Constitution  | 15    |       | 15 | 
+| Strength      | 14    | 2     | 16 | 
+| Dexerity      | 10    |       | 10 | 
+| Constitution  | 14    |       | 14 | 
 | Intelligence  | 8     |       | 8  | 
-| Wisdom        | 8     |       | 8  | 
+| Wisdom        | 10    |       | 10 | 
 | Charisma      | 15    | 1     | 16 | 
 
 
