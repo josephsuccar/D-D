@@ -1,7 +1,8 @@
 #   Character
 
-| Name | Shynt'axle (Shy) |
+| Character | Details |
 | -------- | ------- |
+| Name | Shynt'axle (Shy) |
 | Race | Half-Elf (Drow) |
 | Background | Acolyte (Eilistraee) |
 | Class | Bard (Sword) |
