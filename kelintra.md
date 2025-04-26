@@ -178,3 +178,51 @@ Once you use this feature, you can't use it again until you finish a short or lo
 | Intimidation | CHA |  |
 | Performance | CHA |   |
 | Persuasion | CHA | ✓ |
+
+
+# Leveling Progression
+
+Prepared Paladin spells is equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell).
+
+| Level | Take Class | Hit Points  | Proficiency Bonus | Spell Slot 1st	 |Spell Slot 2nd	| Prepared Paladin Spells | 
+| -     | -          | -           | -                 | - | - | - |
+| 1     | Paladin 1  |  12         | 2                 |   |   |   |
+| 2     | Sorcerer 1 |  18         | 2                 | 2 |   |   |
+| 3     | Paladin 2  |  26         | 2                 | 4 |   | 4 |
+| 4     | Sorcerer 2 |  32         | 2                 | 5 |   | 4 |
+| 5     | Sorcerer 3 |  38         | 3                 | 6 | 2 | 4 |
+| 6     | Sorcerer 4 |  44         | 3                 | 6 | 3 | 4 |
+| 7     | Paladin 3  |  52         | 3                 | 7 | 3 | 4 |
+| 8     | Paladin 4  |  60         | 3                 | 7 | 3 | 5 |
+| 9     | Paladin 5  |  68         | 4                 | 8 | 5 | 5 |
+| 10    | Paladin 6  |  76         | 4                 | 8 | 5 | 6 |
+
+
+## Level 1
+
+Start out with a free feat and take `Fighting Initiate: Blind Fighting Style`.
+
+* **Blind Fighting Style**. You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+
+Gain Divine Sense and Lay on Hands.
+
+## Level 2
+
+Take a level in Divine Soul Sorcerer. Learn `Cure Wounds` from Good-affinity.
+
+Gain 4 cantrips. Consider options:
+  * Booming Blade
+  * Green Flame Blade
+  * Guidance
+  * Thaumaturgy
+  * Mending
+  * Ray of Frost
+  * Firebolt
+
+Gain 2 1st level spells. Consider options:
+  * Shield
+  * Silvery Barbs
+  * Command
+  * Bless
+
+Gain 2 Sorcery Points
