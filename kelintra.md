@@ -226,3 +226,13 @@ Gain 2 1st level spells. Consider options:
   * Bless
 
 Gain 2 Sorcery Points
+
+## Level 3
+Gain Fighting Style, Divine Smite
+
+Consider prepared spells
+  * Purify Food and Drink
+  * Detect Magic
+  * Protection from Evil and Good
+  * Command
+
